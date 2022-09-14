@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **niimachigr@gmail.com**
 
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
