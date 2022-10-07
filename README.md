@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niima CHIGR</h1>
 <h3 align="center">A Passionate Frontend Developer </h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fwzslr321&psig=AOvVaw3Kg0hUu43m4-c6Q5bife8b&ust=1665218187308000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjj_qbbzfoCFQAAAAAdAAAAABAK">
+<img align="right" src="https://camo.githubusercontent.com/2597bac0620b2dbaf653f9e0c48326253f5305a4f14febf0e4a71c56c3b1e47e/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313631353833393030333034382f5f4657334a666737722e676966" data-canonical-src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615839003048/_FW3Jfg7r.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 - 🌱 I’m currently learning **ES6, ReactJs & GraghQL.**
 
