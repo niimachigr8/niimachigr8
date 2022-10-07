@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niima CHIGR</h1>
 <h3 align="center">A Passionate Frontend Developer </h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.gfycat.com%2FAppropriateFatKagu-max-1mb.gif&imgrefurl=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Flofi&tbnid=bG5CNUejZ1QPrM&vet=12ahUKEwjjh_DV2c36AhWnTUEAHX2aDvQQxiAoAHoECAAQEw..i&docid=zHogrzt_KA7-pM&w=640&h=360&itg=1&q=animated%20lofi&hl=fr&ved=2ahUKEwjjh_DV2c36AhWnTUEAHX2aDvQQxiAoAHoECAAQEw">
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+lofi+girl&tbm=isch&ved=2ahUKEwiZ56XS2c36AhUQbRoKHVvJDXYQ2-cCegQIABAA&oq=animated+lofi+girl&gs_lcp=CgNpbWcQAzIECCMQJzIGCAAQHhAIOgcIABCABBATOgYIABAeEBM6CAgAEB4QCBATUPYBWLAYYKEaaANwAHgCgAH5BIgBqxaSAQsxLjEuMS4yLjEuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=UOM_Y5n_F5DaaduSt7AH&bih=625&biw=1349&hl=fr#imgrc=2maMak0GIzI5OM&imgdii=odKDzFgije720M">
 
 - 🌱 I’m currently learning **ES6, ReactJs & GraghQL.**
 
