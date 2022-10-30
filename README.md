@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niima CHIGR</h1>
 <h3 align="center">A Passionate Frontend Developer </h3>
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pixilart.com%2Fphoto%2Flofi-study-girl-6cd473f2bd5f695&psig=AOvVaw1UHF-WSI-HnrOhmtYq6kMx&ust=1667174688059000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMCvz-rThvsCFQAAAAAdAAAAABBV" alt="coding">
+<img align="right" src="https://cdn.pixilart.com/photos/orginal/6cd473f2bd5f695.gif" alt="coding">
 
 - 🌱 I’m currently learning **ES6, ReactJs & GraghQL.**
 
